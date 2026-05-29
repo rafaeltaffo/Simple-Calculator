@@ -1,3 +1,9 @@
+from cleanup import clear_screen, returnn
+from add import addition
+from sub import subtraction
+from mult import multiplication
+from div import division
+
 def main():
     while True:
         print("\n1. Addition")
